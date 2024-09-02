@@ -1,4 +1,4 @@
-<img src="src/media/counter-screen.png" alt="Counter App" />
+<img src="src/media/counter-screen.jpg" alt="Counter App" />
 
 ## Simple Counter App with Redux 
 This app based on React JS. (Diving into Redux / Toolkit (An Alternative To The Context API))
